@@ -26,7 +26,7 @@
   <div class="row">
     <div class="col">
       <p> Por lo que propusimos la siguiente disposición de clases elaborada en PlantUml</p>
-      <img src="diagrama_tienda_java.jpg" />
+      <img src="Diagrama_tienda_java.jpg" />
     </div>
   </div>
 </div>
