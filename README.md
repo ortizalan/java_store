@@ -51,11 +51,28 @@
             <tr style="background-color: #d6e0f5">
               <td>Productos</td>
               <td>codigo, nombre, precio, precio, categoria, stock</td>
-              <td></td>
-              <td></td>
+              <td>Productos(), aumentarInventario(), disminuirInventario(), toString()</td>
+              <td>Clase que administra los productos, sus precios y existencia del producto</td>
             </tr>
             <tr style="background-color: #99b3e6">
-              <td></td>
+              <td>Clientes</td>
+              <td>id_cliente, nombre, email</td>
+              <td>Clientes(), toString()</td>
+              <td>Clase administradora de clientes, altas y bajas</td>
+            </tr>
+            <tr style="background-color: #d6e0f5">
+              <td>Ventas</td>
+              <td>producto, cliente, cantidad, fecha, precioTotal, folio</td>
+              <td>Ventas(), generarFolio(), toString()</td>
+              <td>Clase que administra las ventas, genera los folios y obtiene la fecha de la venta</td>
+            </tr>
+            <tr style="background-color: #99b3e6">
+              <td>Tienda</td>
+              <td>productos, clientes, ventas, count</td>
+              <td>Tienda(), addProducto(), getProducto(), listAllProductos(), addCliente(), getCliente(), listAllClientes(),
+                  registrarVenta(), listAllVentas(), main()</td>
+              <td>Clase manejadora de la tienda, aqui se dan de alta los clientes, productos, se realizan las ventas, se verifica 
+                  el inventario del producto, se muestra e imprime el ticket de la venta.</td>
             </tr>
           </tbody>
         </table>
