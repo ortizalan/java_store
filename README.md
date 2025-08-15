@@ -40,7 +40,7 @@
         <h3>Descripción de las clases utilizadas:</h3>
         <table>
           <thead>
-            <tr styles={"background-color:blue"}>
+            <tr styles="background-color:blue">
               <th>Clase</th>
               <th>Atributos y propiedades</th>
               <th>Métodos</th>
