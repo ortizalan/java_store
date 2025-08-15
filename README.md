@@ -7,7 +7,7 @@
    </div>
   </div>
   <div class="row">
-    <div class="column">
+    <div class="col">
       <p>Es una práctica en Java dónde se nos explica que se necesita desarrolloar una aplicación
       de una tienda que registra ventas manualmente como práctica de la POO.</p>
       <p>Se no solicita lo siguiente:</p>
@@ -34,6 +34,21 @@
         <li>Clase: <a href="Ventas.java">Ventas.java</a></li>
         <li>Clase manejadora: <a href="Ventas.java">Ventas.java</a></li>
       </ul>
+    </div>
+    <div class="row">
+      <div class="col">
+        <h3>Descripción de las clases utilizadas:</h3>
+        <table>
+          <thead>
+            <tr>
+              <th>Clase</th>
+              <th>Atributos y propiedades</th>
+              <th>Métodos</th>
+              <th>Descripción</th>
+            </tr>
+          </thead>
+        </table>
+      </div>
     </div>
   </div>
 </div>
