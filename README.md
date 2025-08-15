@@ -27,6 +27,13 @@
     <div class="col">
       <p> Por lo que propusimos la siguiente disposición de clases elaborada en PlantUml</p>
       <img src="Diagrama_tienda_java.jpg" />
+      <p>Los códigos de las clases se muestran en los siguientes elaces:</p>
+      <ul>
+        <li>Clase: <a href="Productos.java">Productos.java</a></li>
+        <li>Clase: <a href="Clientes.java">Clientes.java</a></li>
+        <li>Clase: <a href="Ventas.java">Ventas.java</a></li>
+        <li>Clase manejadora: <a href="Ventas.java">Ventas.java</a></li>
+      </ul>
     </div>
   </div>
 </div>
