@@ -1,2 +1,2 @@
 # Java Store
-![Logo del Proyecto](java_logo_01.jpg)
+<img src="java_logo_01.jpg" style="width=50%" />
