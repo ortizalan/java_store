@@ -40,13 +40,24 @@
         <h3>Descripción de las clases utilizadas:</h3>
         <table>
           <thead>
-            <tr style="background-color: #FFFFFF">
+            <tr style="background-color: #3366cc">
               <th>Clase</th>
               <th>Atributos y propiedades</th>
               <th>Métodos</th>
               <th>Descripción</th>
             </tr>
           </thead>
+          <tbody>
+            <tr style="background-color: #d6e0f5">
+              <td>Productos</td>
+              <td>codigo, nombre, precio, precio, categoria, stock</td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr style="background-color: #99b3e6">
+              <td></td>
+            </tr>
+          </tbody>
         </table>
       </div>
     </div>
