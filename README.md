@@ -1,5 +1,5 @@
 # Java Store
-<img src="java_logo_01.jpg" style="width:50%" />
+<img src="java_logo_01.jpg" style="width:30%" />
 <div class="container">
   <div class="row">
     <div class="column">
